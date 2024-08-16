@@ -17,10 +17,12 @@ layout: post
     <link rel="stylesheet" href="{{'/assets/css/styles.css' | relative_url}}" />
   </head>
   <body>
-    <h1 class="text-3xl font-semibold">{{ page.title }}</h1>
-    <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
-    <div class="prose">
-        {{ content | markdownify }}
+    <div class="py-6 sm:py-12 flex flex-col justify-center">
+      <h1 class="text-3xl font-semibold text-center">{{ page.title }}</h1>
+      <p class="text-center">{{ page.date | date_to_string }} - {{ page.author }}</p>
+      <div class="prose mx-auto max-w-2xl">
+          {{ content | markdownify }}
+      </div>
     </div>
   </body>
 </html>
