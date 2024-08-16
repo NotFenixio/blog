@@ -1,8 +1,7 @@
 ---
+title: Hello world
 layout: post
 author: NotFenixio
 ---
-
-# Hey there.
 
 Welcome to my blog!
