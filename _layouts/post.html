@@ -21,7 +21,7 @@ layout: post
     <div class="py-6 p-2 sm:py-12 flex flex-col justify-center">
       <h1 class="text-3xl font-semibold text-center">{{ page.title }}</h1>
       <p class="text-center text-zinc-400">{{ page.date | date_to_string }} - {{ page.author }}</p>
-      <div class="prose prose-invert prose-sm sm:prose-base lg:prose-lg xl:prose-xl 2xl:prose-2xl mx-auto max-w-2xl">
+      <div class="prose prose-invert">
           {{ content | markdownify }}
       </div>
     </div>
