@@ -23,10 +23,11 @@ Then the text. Something simple, so I started messing with borders and rings and
 ## The colors
 My first thought was to use some gradients and things, but I discarded the idea immediately, as it was ugly as hell. Then I remembered I knew about a website, [Huemint](https://huemint.com/), that generates color palettes for you. I gave it a shot and got an amazing, warm palette.
 
-###### i forgot to screenshot it
+(i forgot to screenshot it)
 
 ## The actual ideas
-Since AI costs money I decided to do a list of nouns like website, app, or platform and another list with things that the user can make. This isn't very creative or random, but I'm looking forward making it even more creative.
+~~Since AI costs money I decided to do a list of nouns like website, app, or platform and another list with things that the user can make. This isn't very creative or random, but I'm looking forward making it even more creative.~~
+Heh, I got it working thanks to [HackClub](https://hackclub.com) and [Wizard Orpheus](https://github.com/hackclub/wizard-orpheus)!
 
 ### Final
 
